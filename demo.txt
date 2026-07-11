@@ -1,2 +1,1 @@
-Adding a new commit
-Adding 2nd commit
+Adding a 3rd commit
